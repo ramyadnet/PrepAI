@@ -1,0 +1,11 @@
+id,category,difficulty,question,option_a,option_b,option_c,option_d,correct_answer
+1,Quantitative,Easy,What is 20% of 250?,40,50,60,70,B
+2,Quantitative,Easy,If a train travels 60 km in 1 hour what is its speed?,40 km/h,50 km/h,60 km/h,70 km/h,C
+3,Quantitative,Medium,What is the average of 10 20 and 30?,15,20,25,30,B
+4,Logical,Easy,Find the next number: 2 4 6 8 ?,9,10,11,12,B
+5,Logical,Medium,If CAT is coded as DBU how is DOG coded?,EPH,EOH,FPH,DPE,A
+6,Logical,Easy,Which number does not belong: 2 4 6 9 10?,2,4,9,10,C
+7,Verbal,Easy,Choose the synonym of Happy?,Sad,Joyful,Angry,Tired,B
+8,Verbal,Easy,Choose the antonym of Ancient?,Old,Modern,Historic,Traditional,B
+9,Verbal,Medium,Choose the correctly spelled word?,Accomodation,Accommodation,Acommodation,Accommadation,B
+10,Quantitative,Medium,A shop gives a 10% discount on a product costing 500. What is the selling price?,450,460,475,490,A
